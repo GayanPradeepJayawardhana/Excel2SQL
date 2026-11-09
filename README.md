@@ -131,7 +131,12 @@ This repository does not define an application version or automated release work
 
 ## License
 
-No license file is currently included in this repository, so the project does not specify a license for reuse or redistribution.
+This project is licensed under the **GNU General Public License v3.0**.
+See the [LICENSE](LICENSE) file for the full text.
+
+In short: you are free to use, modify, and redistribute this software,
+including commercially — but if you distribute a modified version, you
+must also make its source code available under the same GPL-3.0 license.
 
 ---
 
